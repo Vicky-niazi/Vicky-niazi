@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **I Love Comedy**
 
-## 💼 What’s Inside?
-
 
 
 ---
