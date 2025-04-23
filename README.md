@@ -1,5 +1,5 @@
 # Hi there 👋
-
+![Logo](https://github.com/Vicky-niazi/Vicky-niazi/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm WAQAR AHMED KHAN</h1>
 <h3 align="center">A passionate Data Analyst & Digital Marketer from Pakistan</h3>
