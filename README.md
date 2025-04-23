@@ -14,19 +14,7 @@
 
 ## 💼 What’s Inside?
 
-This repository contains real-world data analysis projects built with a goal to:
-- Extract and clean raw datasets
-- Explore trends and insights
-- Design meaningful dashboards and reports
-- Support data-driven decision making
 
-
-
-
-Each project is organized in its own folder and includes:
-- 📁 Raw & cleaned datasets  
-- 📊 Power BI dashboards  
-- 📝 Project descriptions and insights  
 
 ---
 
